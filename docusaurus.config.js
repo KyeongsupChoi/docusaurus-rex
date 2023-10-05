@@ -9,6 +9,7 @@ const config = {
   title: 'Ks Tech Blog',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
