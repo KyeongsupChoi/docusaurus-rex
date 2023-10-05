@@ -1,6 +1,6 @@
 ---
-slug: Deep LEarning
-title: Deeap LEarning
+slug: Deep LEarningxxx
+title: Deep LEarning
 authors:
   name: Gao Wei
   title: Docusaurus Core Team
