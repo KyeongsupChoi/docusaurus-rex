@@ -57,6 +57,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      navbar: {
+        title: 'K's Tech Blog,
+        logo: {
+          alt: 'My Site Logo',
+          src: 'img/logo.svg',
+        },
+      },
       footer: {
         style: 'dark',
         links: [
