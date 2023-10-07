@@ -68,11 +68,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Korean Portfolio Site',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '한국어 포트폴리오',
+                to: 'https://kyeongsupChoi.github.io',
               },
             ],
           },
