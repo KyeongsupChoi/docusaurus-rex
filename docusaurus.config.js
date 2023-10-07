@@ -77,19 +77,19 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Social Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/KyeongsupChoi',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/kyeongsup-choi/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Kaggle',
+                href: 'https://www.kaggle.com/kyeongsupchoi',
               },
             ],
           },
