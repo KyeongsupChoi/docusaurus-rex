@@ -1,8 +1,8 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: ai-skills-outline
+title: AI Skills Outline 
 authors:
-  name: Gao Wei
+  name: [k]
   title: Docusaurus Core Team
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
