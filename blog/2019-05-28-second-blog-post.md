@@ -1,11 +1,7 @@
 ---
-slug: Deep LEarningxxx
+slug: Deep Learningxxx
 title: Deep LEarning
-authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+authors: [k]
 tags: [hola, docusaurus]
 ---
 
