@@ -68,46 +68,33 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Korean Portfolio Site',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '한국어 포트폴리오',
+                to: 'https://kyeongsupChoi.github.io',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Social Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/KyeongsupChoi',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/kyeongsup-choi/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Kaggle',
+                href: 'https://www.kaggle.com/kyeongsupchoi',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Ks Tech Blog. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
