@@ -1,6 +1,6 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
+slug: broad-strokes
+title: Broad Strokes
 authors: k
 tags: [hello, docusaurus]
 ---

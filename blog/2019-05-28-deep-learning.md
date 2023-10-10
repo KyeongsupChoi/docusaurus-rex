@@ -1,6 +1,6 @@
 ---
-slug: Deep Learningxxx
-title: Deep LEarning
+slug: Deep Learning
+title: Deep Learning
 authors: [k]
 tags: [hola, docusaurus]
 ---
