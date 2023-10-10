@@ -1,11 +1,7 @@
 ---
 slug: ai-skills-outline
 title: AI Skills Outline 
-authors:
-  name: [k]
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+authors: [k]
 tags: [hola, docusaurus]
 ---
 
