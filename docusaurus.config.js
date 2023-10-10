@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ks Tech Blog',
+  title: 'Hey hi, AI',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docusaurus-rex.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Ks Tech Blog',
+        title: 'Hey Hi, AI',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -94,7 +94,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Ks Tech Blog. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hey Hi, AI. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
