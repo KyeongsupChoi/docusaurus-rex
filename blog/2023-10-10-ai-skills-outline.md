@@ -2,7 +2,7 @@
 slug: ai-skills-outline
 title: AI Skills Outline 
 authors: [k]
-tags: [ai, docusaurus]
+tags: [ai, docusaurus, reference]
 ---
 
 Proficient languages:
