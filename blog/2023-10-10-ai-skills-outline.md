@@ -3,7 +3,19 @@ slug: ai-skills-outline
 title: AI Skills Outline 
 authors: [k]
 tags: [ai, docusaurus]
-custom_edit_url: null
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Proficient languages:
+Python and Javascript
+
+IDEs:
+Pycharm and VS Code
+
+Tools:
+Slack, Discord, Asana
+
+Cloud:
+Vercel, Render, PythonAnywhere
+
+Libraries and Frameworks:
+Django, Flask, FastAPI, TensorFlow, Scikit LEarn, Pandas
