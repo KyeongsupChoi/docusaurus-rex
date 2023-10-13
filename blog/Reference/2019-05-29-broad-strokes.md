@@ -2,7 +2,7 @@
 slug: broad-strokes
 title: Broad Strokes
 authors: k
-tags: [hello, docusaurus]
+tags: [reference, docusaurus]
 ---
 
 This is the summary of a very long blog post,
