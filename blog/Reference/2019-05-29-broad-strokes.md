@@ -5,7 +5,7 @@ authors: k
 tags: [reference, docusaurus]
 ---
 
-This is the summary of a very long blog post,
+This is the summary of a very long blog post, 얀녕하세요
 
 Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
 
