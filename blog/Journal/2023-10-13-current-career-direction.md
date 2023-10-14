@@ -1,6 +1,6 @@
 ---
-slug: current-career-direction
-title: Current Career Direction
+slug: current-career-direction-001
+title: Current Career Direction 001
 authors: [k]
 tags: [journal, career]
 ---
