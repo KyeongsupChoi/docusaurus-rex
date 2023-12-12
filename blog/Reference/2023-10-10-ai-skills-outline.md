@@ -6,16 +6,16 @@ tags: [ai, docusaurus, reference]
 ---
 
 Proficient languages:
-Python and Javascript
+Python, SQL and Javascript
 
 IDEs:
-Pycharm and VS Code
+Pycharm and VScode
 
 Tools:
-Slack, Discord, Asana
+Slack, Discord, Jira, Git/Github
 
 Cloud:
 Vercel, Render, PythonAnywhere
 
 Libraries and Frameworks:
-Django, Flask, FastAPI, TensorFlow, Scikit LEarn, Pandas
+Django, Flask, FastAPI, TensorFlow, ScikitLearn, Pandas, Plotly
