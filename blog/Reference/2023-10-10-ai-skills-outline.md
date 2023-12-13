@@ -5,7 +5,7 @@ authors: [k]
 tags: [ai, docusaurus, reference]
 ---
 
-Proficient languages:
+Proficient Languages:
 Python, SQL and Javascript
 
 IDEs:
