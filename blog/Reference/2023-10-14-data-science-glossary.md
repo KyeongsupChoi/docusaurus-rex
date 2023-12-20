@@ -2,7 +2,7 @@
 slug: data-science-glossary
 title: Data Science Glossary
 authors: k
-tags: [reference, docusaurus]
+tags: [ai, reference, docusaurus]
 ---
 
 

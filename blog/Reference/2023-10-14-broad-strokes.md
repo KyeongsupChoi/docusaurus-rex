@@ -2,7 +2,7 @@
 slug: broad-strokes
 title: Broad Strokes
 authors: k
-tags: [reference, docusaurus]
+tags: [ai, reference, docusaurus]
 ---
 
 Artificial Intelligence is an ancient, broad field that can generally be defined as “all
