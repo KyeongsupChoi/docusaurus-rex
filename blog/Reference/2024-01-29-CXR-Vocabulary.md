@@ -4,7 +4,7 @@ title: CXR-vocabulary
 authors: [k]
 tags: [ai, docusaurus, reference]
 ---
-*CAD (Computer Aided Detection) System:*
+**CAD (Computer Aided Detection) System:**
 CAD refers to computer software algorithms designed to assist radiologists in interpreting medical images, such as X-rays, CT scans, or MRIs. These systems can automatically highlight potential abnormalities or areas of concern in the images, aiding in the detection of diseases or conditions.
 
 CXR (Chest X-ray Radiographs):
