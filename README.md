@@ -1,19 +1,18 @@
-# Docusaurus 2
+# AI Blog with Docusaurus
 
-This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed to Vercel with zero configuration.
+## Overview
+This project comprises a collection of blog entries authored by Kyeongsup Choi, a Data Scientist, focusing on various aspects of Artificial Intelligence (AI), Machine Learning (ML), and Data Science. The blogs cover a range of topics, including career insights, technical definitions, and personal experiences in the field.
 
-## Deploy Your Own
+## Blog Entries
+Current Career Direction 002 (December 10, 2023): Details Choi's recent marriage, unemployment status, and efforts to enhance skills and portfolio amid a challenging job market.
+Broad Strokes (October 14, 2023): Provides an overview of Artificial Intelligence, Machine Learning, and Deep Learning.
+Data Science Glossary (October 14, 2023): Defines key terms and concepts related to Data Science and Machine Learning.
+Current Career Direction 001 (October 13, 2023): Discusses Choi's career plan, challenges in job hunting, and strategies for staying prepared.
+AI Skills Outline (October 10, 2023): Lists Choi's proficiency in programming languages, IDEs, tools, cloud platforms, and libraries/frameworks.
 
-Deploy your own Docusaurus project with Vercel.
+## Tags
+Each blog entry is tagged for easy categorization and retrieval. Tags include:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/docusaurus-2&template=docusaurus-2)
-
-_Live Example: https://docusaurus-2-template.vercel.app_
-
-### How We Created This Example
-
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
-
-```shell
-npx create-docusaurus@latest my-website classic
-```
+journal career
+ai reference
+korean
