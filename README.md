@@ -16,3 +16,9 @@ Each blog entry is tagged for easy categorization and retrieval. Tags include:
 journal career
 ai reference
 korean
+
+## TBA
+
+-LLMs what they are
+
+-LLMs what they can and can't  do
