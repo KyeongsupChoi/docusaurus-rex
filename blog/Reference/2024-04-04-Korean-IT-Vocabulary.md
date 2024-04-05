@@ -1,13 +1,15 @@
 ---
 slug: Korean-IT-Vocabulary
-title:Korean-IT-Vocabulary
+title: Korean-IT-Vocabulary
 authors: [k]
 tags: [korean, docusaurus, reference]
 ---
 
-**Access**: 접속허더
+**Access**: 접속하다
+
 적응하다: Adapt
 추가하다: Add
+
 할당하다: Allocate
 분석하다: Analyze
 적용하다: Apply
