@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Hey hi, AI',
-  tagline: 'Dinosaurs are cool',
+  tagline: "K's AI Blog",
   url: 'https://docusaurus-rex.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -38,6 +38,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
         },
         blog: {
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           routeBasePath: '/',
           showReadingTime: true,
           // Please change this to your repo.
