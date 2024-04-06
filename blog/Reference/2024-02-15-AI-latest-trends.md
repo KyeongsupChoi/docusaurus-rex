@@ -1,6 +1,6 @@
 ---
 slug: AI-latest-trends
-title: AI-latest-trends
+title: AI Latest Trends
 authors: [k]
 tags: [ai, docusaurus, reference]
 ---

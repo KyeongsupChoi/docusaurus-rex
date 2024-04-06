@@ -1,6 +1,6 @@
 ---
-slug: CXR-vocabulary
-title: CXR-vocabulary
+slug: CXR-vocabulary-002
+title: CXR Vocabulary 002
 authors: [k]
 tags: [ai, docusaurus, reference]
 ---

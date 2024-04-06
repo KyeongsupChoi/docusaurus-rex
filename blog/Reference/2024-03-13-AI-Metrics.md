@@ -1,6 +1,6 @@
 ---
 slug: AI-Metrics
-title: AI-Metrics
+title: AI Metrics
 authors: [k]
 tags: [ai, docusaurus, reference]
 ---

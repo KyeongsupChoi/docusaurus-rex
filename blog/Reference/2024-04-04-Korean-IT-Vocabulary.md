@@ -1,6 +1,6 @@
 ---
 slug: Korean-IT-Vocabulary
-title: Korean-IT-Vocabulary
+title: Korean IT Vocabulary
 authors: [k]
 tags: [korean, docusaurus, reference]
 ---

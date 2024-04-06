@@ -1,6 +1,6 @@
 ---
 slug: CXR-reading
-title: CXR-reading
+title: CXR Reading
 authors: [k]
 tags: [ai, docusaurus, reference]
 ---
