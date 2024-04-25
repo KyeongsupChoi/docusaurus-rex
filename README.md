@@ -1,4 +1,4 @@
-# AI Blog with Docusaurus
+# Docusaurus Blog about AI Topics
 
 ## Overview
 
