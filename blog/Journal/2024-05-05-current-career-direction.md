@@ -40,4 +40,31 @@ tags: [journal, career]
 > Headcount/Turnover: 9 Employees/(7 Left|8 Joined)
 > Duties: Machine Vision Engineer - Machine Vision AI, Keyence Software
 > Status: Recruiter reached out to me on Saramin on May 2nd, I sent resume and details on May 3rd
- 
+
+> __BearingsFactory(pseudonym) - Seoul SME__
+> Stated Salary: 45 mil won is what I requested
+> Headcount/Turnover: 37 Employees/(10 Left|18 Joined)
+> Duties: Data Analyst - NC Manufacturing Data Analysis with Python and SQL
+> Status: Applied on Saramin on May 2nd, I sent requested details on May 3rd
+
+ ### Potential Measures
+
+- **Kaggle Master Ranking**
+Estimated Time: 3 weeks
+Estimated Value: 6/10
+
+- **Polish Projects and Portfolio**
+Estimated Time: 2 weeks
+Estimated Value: 3/10
+
+- **Open Source Contributions**
+Estimated Time: ??
+Estimated Value: 3~7/10
+
+- **Big Data Analyst Certification**
+Estimated Time: Until August, Exam Date
+Estimate Value: 8/10 in Korea at least
+
+- **CS Bachelor's Degree**
+Estimated Time: 2 years
+Estimate Value: 9/10
