@@ -7,6 +7,7 @@ tags: [journal, career]
 ## Current Job Search Status
 
 **Current Duration: ** 2 and a half months and counting
+
 **Unemployment Lapsed Date: ** April 11th
 
 ### Status of Applications
@@ -74,21 +75,31 @@ tags: [journal, career]
  ### Potential Measures
 
 - **Kaggle Master Ranking**
+
 Estimated Time: 3 weeks
+
 Estimated Value: 6/10
 
 - **Polish Projects and Portfolio**
+
 Estimated Time: 2 weeks
+
 Estimated Value: 3/10
 
 - **Open Source Contributions**
+
 Estimated Time: ??
+
 Estimated Value: 3~7/10
 
 - **Big Data Analyst Certification**
+
 Estimated Time: Until August, Exam Date
+
 Estimate Value: 8/10 in Korea at least
 
 - **CS Bachelor's Degree**
+
 Estimated Time: 2 years
+
 Estimate Value: 9/10
