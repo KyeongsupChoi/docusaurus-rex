@@ -8,5 +8,5 @@ tags: [docusaurus, reference]
 Proficient Sections:
 DDL, DQL, DML
 
-Not Profiecient Sections:
+Not Proficient Sections:
 DCL, TCL
