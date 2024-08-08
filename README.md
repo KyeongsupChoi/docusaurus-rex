@@ -1,4 +1,4 @@
-# Docusaurus Blog about AI Topics
+# Personal Dev Blog built with Docusaurus
 
 ## Overview
 
