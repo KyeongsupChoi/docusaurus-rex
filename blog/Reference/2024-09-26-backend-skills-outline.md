@@ -55,6 +55,7 @@ tags: [docusaurus, reference]
 
 ---
 
+<span style="color:darkblue">some *blue* text</span>.
 ## 4. Expert
 
 ### Skills:
