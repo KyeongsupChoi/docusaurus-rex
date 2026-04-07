@@ -85,10 +85,6 @@ const config = {
                 label: 'LinkedIn',
                 href: 'https://www.linkedin.com/in/kyeongsup-choi/',
               },
-              {
-                label: 'Kaggle',
-                href: 'https://www.kaggle.com/kyeongsupchoi',
-              },
             ],
           },
         ],
