@@ -1,6 +1,6 @@
 ---
 slug: korean-dev-salaries
-title: The Reality of Korean Dev Salaries: Data-Driven Career Planning
+title: "The Reality of Korean Dev Salaries: Data-Driven Career Planning"
 authors: [k]
 tags: [career, salary, korea]
 ---
